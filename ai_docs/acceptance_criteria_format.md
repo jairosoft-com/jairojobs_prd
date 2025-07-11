@@ -25,7 +25,8 @@ structured approach to describe the context, actions, and expected outcomes.
 *Scenario:* A user adds an item to their cart.
 *Given:* The user is logged in and on the product page.
 *When:* The user clicks the "Add to Cart" button.
-*Then:* The item is added to the shopping cart, and the cart icon updates to reflect the new item count.
+*Then:* The item is added to the shopping cart, and the cart icon updates to
+reflect the new item count.
 
 ### Checklist
 
