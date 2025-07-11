@@ -1,7 +1,7 @@
 
-# Job Portal MVP
+# JairoJobs.com MVP
 
-This document provides an overview of the Minimum Viable Product (MVP) for a new job portal platform. The goal is to create a simple and user-friendly platform that connects job seekers with employers, inspired by the core functionalities of sites like Indeed.
+This document provides an overview of the Minimum Viable Product (MVP) for [JairoJobs.com](https://jairojobs.com). The goal is to create a simple and user-friendly platform that connects job seekers with employers, inspired by the core functionalities of sites like [Indeed.com](https://www.indeed.com).
 
 All the documentation for the MVP can be found in the `/mvp` directory.
 
