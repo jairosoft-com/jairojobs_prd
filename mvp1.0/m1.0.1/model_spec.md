@@ -24,7 +24,8 @@ product road map starting with an MVP version.
 
 * Create a User Stories Document (US) from the PRD found in #mvp/mvp.md.
 * Follow the US Voice format found in #ai_docs/user_story_format.md.
-* Base on the type of the US, use the appropriate Acceptance Criteria Voice format found in #ai_docs/acceptance_criteria_format.md.
+* Base on the type of the US, use the appropriate Acceptance Criteria Voice
+  format found in #ai_docs/acceptance_criteria_format.md.
 * Write the US in #user_stories.md
 
 ### User Flow

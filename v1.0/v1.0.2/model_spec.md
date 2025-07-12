@@ -20,7 +20,8 @@ You are an expert Product Owner.
 
 * Create a User Stories Document (US) from the PRD found in #mvp/mvp.md.
 * Follow the US Voice format found in #ai_docs/user_story_format.md.
-* Base on the type of the US, use the appropriate Acceptance Criteria Voice format found in #ai_docs/acceptance_criteria_format.md.
+* Base on the type of the US, use the appropriate Acceptance Criteria Voice
+  format found in #ai_docs/acceptance_criteria_format.md.
 * Write the US in #user_stories.md
 
 ### User Flow
