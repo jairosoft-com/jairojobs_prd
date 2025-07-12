@@ -6,11 +6,7 @@ You are an expert Product Owner.
 
 ## Requirements
 
-I want to rebuild our job portal site. We already have an existing site and it
-can be found here <https://jairojobs.com>. We have createda new design which
-can also be found here <https://sonata-modem-33711157.figma.site>. I want a
-simple version of <https://www.indeed.com>. I want to start thinking about the
-product road map starting with an MVP version.
+[Add requirements here]
 
 ## Tasks
 
