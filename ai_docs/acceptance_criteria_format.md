@@ -1,4 +1,4 @@
-# Acceptance Criteria
+# Acceptance Criteria Format
 
 ## Overview
 
