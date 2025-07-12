@@ -78,14 +78,16 @@ requirements for working with markdown and mermaid diagrams.
 - [x] Add appropriate code blocks and syntax highlighting
 - [x] Include badges or status indicators if applicable
 - [x] Ensure all content follows the 80-character line limit
+- [ ] Ensure all documentation files have lines <= 80 characters for
+  markdownlint compliance.
 
 ### 9. Review and Testing
 
-- [ ] Test all markdown rendering in VSCode
-- [ ] Verify mermaid diagrams render correctly
-- [ ] Check all internal links work properly
-- [ ] Review for clarity and completeness
-- [ ] Get feedback from team members
+- [x] Test all markdown rendering in VSCode
+- [x] Verify mermaid diagrams render correctly
+- [x] Check all internal links work properly
+- [x] Review for clarity and completeness
+- [x] Get feedback from team members
 
 ### 10. Final Polish
 
